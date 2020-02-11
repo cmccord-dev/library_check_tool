@@ -1,0 +1,11 @@
+[package]
+name = "check"
+version = "0.1.0"
+authors = ["eiowlta <cassandra.l.mccord@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+goblin = "0.1.2"
+rust-crypto = "^0.2"
